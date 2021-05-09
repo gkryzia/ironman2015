@@ -820,7 +820,6 @@ dens_40_49 <- density(women_only$run_sec[women_only$division_y10=="40-49"], bw =
 
 lines(dens_20_29, lwd = 2, col = "darkgreen", lty = 5)
 lines(dens_40_49, lwd = 2, col = "purple", lty = 4)
-
 ```
 
 
