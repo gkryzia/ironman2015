@@ -40,10 +40,22 @@ Analysis and Visualization at UCLA Extension (11/2020)
 #### *Loading libraries*
 
 ``` r
-library(rmarkdown)
-library(plotrix)
-library(lubridate)
+packages = c("plotrix", "lubridate", "rmarkdown")
+
+lapply(
+  packages,
+  FUN = function(x) {
+    if (!require(x, character.only = TRUE)) {
+      install.packages(x, dependencies = TRUE)
+      library(x, character.only = TRUE)
+    }
+  }
+)
 ```
+
+    ## Loading required package: plotrix
+
+    ## Loading required package: lubridate
 
     ## 
     ## Attaching package: 'lubridate'
@@ -51,6 +63,17 @@ library(lubridate)
     ## The following objects are masked from 'package:base':
     ## 
     ##     date, intersect, setdiff, union
+
+    ## Loading required package: rmarkdown
+
+    ## [[1]]
+    ## NULL
+    ## 
+    ## [[2]]
+    ## NULL
+    ## 
+    ## [[3]]
+    ## NULL
 
 #### *Loading dataset*
 
@@ -968,9 +991,9 @@ lines(dens_40_49, lwd = 2, col = "purple", lty = 4)
 
 ## 3. Final conclusions and answers to the asked questions
 
-#### <br> **In most sports younger competitors achieve better results. Ironman is not one of those sports, though. Let us look at the final insights from my analysis.**
+#### **In most sports younger competitors achieve better results. Ironman is not one of those sports, though. Let us look at the final insights from my analysis.**
 
-#### <br> **Participation in terms of gender and age**
+#### <i> **Participation in terms of gender and age**</i>
 
 #### Ironman World Championships are dominated by men. Women make up 28% of all participants.
 

@@ -5,7 +5,8 @@ author: |-
   Project created by Grzegorz Kryzia during the course Exploratory Data Analysis and Visualization at UCLA Extension (11/2020)
   ![](triathlon1a.jpg)
 output:
-  github_document
+  github_document:
+    html_preview: true
 ---
 
 ## Analysis of dataset obtained on Academic Torrents website <http://academictorrents.com>. It answers following questions:
@@ -40,10 +41,18 @@ output:
 -   Overall time
 
 #### *Loading libraries*
-```{r}
-library(rmarkdown)
-library(plotrix)
-library(lubridate)
+```{r echo=TRUE}
+packages = c("plotrix", "lubridate", "rmarkdown")
+
+lapply(
+  packages,
+  FUN = function(x) {
+    if (!require(x, character.only = TRUE)) {
+      install.packages(x, dependencies = TRUE)
+      library(x, character.only = TRUE)
+    }
+  }
+)
 ```
 
 
@@ -825,9 +834,9 @@ lines(dens_40_49, lwd = 2, col = "purple", lty = 4)
 
 ## 3. Final conclusions and answers to the asked questions
 
-#### <br> **In most sports younger competitors achieve better results. Ironman is not one of those sports, though. Let us look at the final insights from my analysis.**
+#### **In most sports younger competitors achieve better results. Ironman is not one of those sports, though. Let us look at the final insights from my analysis.**
 
-#### <br> **Participation in terms of gender and age**
+#### <i> **Participation in terms of gender and age**</i>
 #### Ironman World Championships are dominated by men. Women make up 28% of all participants. 
 #### Most numerous age group for both men and women is 40-49 (34% for men and 28% for women). Right after this group is the group 30-39 and 50-59. Only in the 4th position and much smaller is the youngest group 20-29 (10% for men and 15% for women).
 #### We can infer that Ironman is a competition which requires more sport experience and endurance, that is why most participants are people after their forties.
