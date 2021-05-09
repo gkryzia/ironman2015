@@ -1,0 +1,2 @@
+# IRONMAN WORLD CHAMPIONSHIPS HAWAII 2015 (2.4 mil swim, 112 mil bike and 26.2 mil run, altogether 140.6 miles)
+# Project created by Grzegorz Kryzia during the course Exploratory Data Analysis and Visualization at UCLA Extension (11/2020)
