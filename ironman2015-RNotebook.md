@@ -610,7 +610,8 @@ lines(dens_20_29, lwd = 2, col = "purple", lty = 4)
 ```
 
 ![](ironman2015-RNotebook_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
-\*\*\*
+
+------------------------------------------------------------------------
 
 > -   #### The swim time of group 30-39 is spread over the wider range, still a little skewed but not as much as for the group 20-29 for which most times are concentrated below 4000 sec.
 
@@ -667,7 +668,8 @@ lines(dens_20_29, lwd = 2, col = "purple", lty = 4)
 ```
 
 ![](ironman2015-RNotebook_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
-\*\*\*
+
+------------------------------------------------------------------------
 
 > -   #### Looking at the distributions of run times for both groups, we can see that the difference between times is bigger, compared to bike time, in favor of the group 30-39. For both group distribution is right skewed, but it can be clearly seen that for the group 30-39 by far more data is concentrated in lower range than for the group 20-29.
 
@@ -883,11 +885,7 @@ text(bp, 0, round(run_means$run_sec),cex=1,pos=3)
 
 ------------------------------------------------------------------------
 
-> -   Comparing average overall time and times of individual disciplines
->     of those two women’s groups, we can see that only the average
->     swimming time is lower for the younger group 20-29. In the other
->     two disciplines as well as in the overall time the lower value has
->     the group 40-49.
+> -   #### Comparing average overall time and times of individual disciplines of those two women’s groups, we can see that only the average swimming time is lower for the younger group 20-29. In the other two disciplines as well as in the overall time the lower value has the group 40-49.
 
 ------------------------------------------------------------------------
 
@@ -916,12 +914,10 @@ lines(dens_40_49, lwd = 2, col = "purple", lty = 4)
 ```
 
 ![](ironman2015-RNotebook_files/figure-gfm/unnamed-chunk-40-1.png)<!-- -->
-\*\*\*
 
-> -   Comparing swim time for those two groups we can clearly see that
->     more times of group 20-29 are concentrated in a lower range of
->     times with the peak around 4300 sec, while 40-49 group’s times are
->     greater with the peak a little below 5000 sec.
+------------------------------------------------------------------------
+
+> -   #### Comparing swim time for those two groups we can clearly see that more times of group 20-29 are concentrated in a lower range of times with the peak around 4300 sec, while 40-49 group’s times are greater with the peak a little below 5000 sec.
 
 ------------------------------------------------------------------------
 
@@ -950,9 +946,7 @@ lines(dens_40_49, lwd = 2, col = "purple", lty = 4)
 
 ------------------------------------------------------------------------
 
-> -   Bike times for the group 20-29 are more spread and are more right
->     skewed than in the group 40-49. Times in the group 40-49 are more
->     concentrated in lower range.
+> -   #### Bike times for the group 20-29 are more spread and are more right skewed than in the group 40-49. Times in the group 40-49 are more concentrated in lower range.
 
 ------------------------------------------------------------------------
 
@@ -981,11 +975,7 @@ lines(dens_40_49, lwd = 2, col = "purple", lty = 4)
 
 ------------------------------------------------------------------------
 
-> -   Distribution of run times of the group 20-29 is definitely more
->     skewed than in group 40-49. Concentrations of times below 1500 sec
->     are similar for both groups, but right above time 1500 sec and
->     below 1700 sec concentration of 40-49 group times is much greater
->     than those of group 20-29.
+> -   #### Distribution of run times of the group 20-29 is definitely more skewed than in group 40-49. Concentrations of times below 1500 sec are similar for both groups, but right above time 1500 sec and below 1700 sec concentration of 40-49 group times is much greater than those of group 20-29.
 
 ------------------------------------------------------------------------
 
