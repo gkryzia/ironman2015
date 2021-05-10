@@ -832,32 +832,33 @@ lines(dens_40_49, lwd = 2, col = "purple", lty = 4)
 
 ***
 
-## 3. Final conclusions and answers to the asked questions
+## 3. Final conclusions and answers to the asked questions 
 
-#### **In most sports younger competitors achieve better results. Ironman is not one of those sports, though. Let us look at the final insights from my analysis.**
+In most sports younger competitors achieve better results. Ironman is not one of those sports, though. Let us look at the final insights from my analysis.
 
-#### <i> **Participation in terms of gender and age**</i>
-#### Ironman World Championships are dominated by men. Women make up 28% of all participants. 
-#### Most numerous age group for both men and women is 40-49 (34% for men and 28% for women). Right after this group is the group 30-39 and 50-59. Only in the 4th position and much smaller is the youngest group 20-29 (10% for men and 15% for women).
-#### We can infer that Ironman is a competition which requires more sport experience and endurance, that is why most participants are people after their forties.
+#### Participation in terms of gender and age
+Ironman World Championships are dominated by men. Women make up 28% of all participants. Most numerous age group for both men and women is 40-49 (34% for men and 28% for women). Right after this group is the group 30-39 and 50-59. Only in the 4th position and much smaller is the youngest group 20-29 (10% for men and 15% for women). We can infer that Ironman is a competition which requires more sport experience and endurance, that is why most participants are people after their forties. 
+
+
 ***
 #### ***!!! Most Ironman participants are middle age people of age between 40 and 49.***
 ***
-#### <br> **How age and gender impact overall time and times of individual disciplines. **
-#### While it is not a surprise that men’s times are better than women’s in respective age groups, it is very interesting and a little surprising what competition between age groups is, looking at each gender separately. 
-#### Among men, excluding professionals, the most competitive groups are 20-29 and 30-39 and it turns out that the older group 30-39 achieved better average time in two disciplines biking and running, and also overall time of this group is better than that of the younger group 20-29. The younger group has a better average time only in swimming.<br>
-#### Similar phenomenon we can observe among women with this difference that the better than 20-29 group is the even older group 40-49. Average times for women group 40-49 are better in running, biking and overall times compared to the group 20-29. 
+
+#### How age and gender impact overall time and times of individual disciplines.
+While it is not a surprise that men’s times are better than women’s in respective age groups, it is very interesting and a little surprising what competition between age groups is, looking at each gender separately. 
+Among men, excluding professionals, the most competitive groups are 20-29 and 30-39 and it turns out that the older group 30-39 achieved better average time in two disciplines biking and running, and also overall time of this group is better than that of the younger group 20-29. The younger group has a better average time only in swimming.<br>
+Similar phenomenon we can observe among women with this difference that the better than 20-29 group is the even older group 40-49. Average times for women group 40-49 are better in running, biking and overall times compared to the group 20-29. 
+
 ***
 #### ***!!! Men from group 30-39 are better cyclists and runners than those from men group 20-29***
 #### ***!!! Women from group 40-49 are better cyclists and runners than those from women group 20-29***
 ***
-#### <br> **How does men bike time impact an overall time?** 
-#### There is a linear positive correlation between bike time and overall time. Sounds logic and absolutely makes sense. What can be a surprise is how strong is the impact of bike time on overall time looking at men groups.The linear regression model predicts an increase in overall time about twice as much as an increase in bike time.   
+
+#### How does men bike time impact an overall time?
+There is a linear positive correlation between bike time and overall time. Sounds logic and absolutely makes sense. What can be a surprise is how strong is the impact of bike time on overall time looking at men groups.The linear regression model predicts an increase in overall time about twice as much as an increase in bike time.   
 
 ***
 #### ***!!! Bike time has a great impact on an overall time. Every increase in bike time by 60 sec causes the increase in overall time by 120 sec. On the other hand every decrease in bike time by 60 sec helps to decrease overall time by 134 sec***<br>
 ***
 
-***
-#### ***If you think about starting Ironman training and wonder if maybe you are too old, remember when it comes to that competition and your age it could be only too early, IT IS NEVER TOO LATE!***
-***
+#### If you think about starting Ironman training and wonder if maybe you are too old, remember when it comes to that competition and your age it could be only too early, IT IS NEVER TOO LATE!
