@@ -245,6 +245,7 @@ labelcex = 1.1, radius = 1, main = "Participation by gender", cex.main=1.2)
 > - #### More than 2/3 participants are males
 
 ***
+
 ```{r}
 # Men participation by age group
 div_males <- table(imdata$division_y10[gender=='M'])
@@ -273,6 +274,7 @@ pie(div_females, labels = lbls,  radius=1, cex=0.7,
   - #### The younger groups 20-29 is for both men and women only on 4th position and is three times smaller than men group 40-49 and almost two times smaller than women group 40-49   
 
 ***
+
 ```{r}
 summary(imdata$overall_hms[imdata$gender=='M'])
 summary(imdata$overall_hms[imdata$gender=='F'])
@@ -433,7 +435,6 @@ lines(dens_20_29, lwd = 2, col = "purple", lty = 4)
 ***
 
 > - #### The spread of the bike time for both groups looks similar with a little advantage of group 30-39 in the lowest times 16000 - 17000 sec and between 18000 - 19000 sec
-  
 
 ***
 
