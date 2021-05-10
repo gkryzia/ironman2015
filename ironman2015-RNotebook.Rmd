@@ -829,7 +829,7 @@ lines(dens_40_49, lwd = 2, col = "purple", lty = 4)
 
 ***
 
-> - Distribution of run times of the group 20-29 is definitely more skewed than in group 40-49. Concentrations of times below 1500 sec are similar for both groups, but right above time 1500 sec and below 1700 sec concentration of 40-49 group times is much greater than those of group 20-29.
+> - Distribution of run times of the group 20-29 is definitely more skewed than in group 40-49. Concentrations of times below 1500 sec are similar for both groups, but right above time 1500 sec and below 1700 sec concentration of 40-49 group times is much greater than those of group 20-29. 
 
 ***
 
