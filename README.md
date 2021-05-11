@@ -1,6 +1,6 @@
 ## IRONMAN WORLD CHAMPIONSHIPS HAWAII 2015 - Data Analysis
 #### Author: Grzegorz Kryzia
-#### Individual project made as a part of the course Exploratory Data Analysis and Visualization, UCLA Extension (11/2020)
+Individual project made as a part of the course Exploratory Data Analysis and Visualization, UCLA Extension (11/2020)
 
 ## Description
 
@@ -26,9 +26,9 @@ All parts of the project like data cleaning, visualizations, and calculations us
 ## Project Files
 
 * Dataset [im_world-championships_2015.csv](im_world-championships_2015.csv)
-* R Notebook ironman2015-RNotebook.Rmd
-* R Script ironman2015.R
-* Markdown project file containing all analysis, graphs and observations[ironman2015-RNotebook.md](ironman2015-RNotebook.md) 
+* R Notebook *ironman2015-RNotebook.Rmd*
+* R Script *ironman2015.R*
+* Markdown project file containing all analysis, graphs and observations [ironman2015-RNotebook.md](ironman2015-RNotebook.md) 
 
 ## Project Insights
 
