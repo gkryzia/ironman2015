@@ -6,7 +6,11 @@
 
 ## Data source
 
+Dataset obtained on Academic Torrents website <http://academictorrents.com>. 
+
 ## Technology
+
+The whole project was made in R, using RStudio.
 
 ## Files
 
