@@ -23,11 +23,14 @@ Dataset obtained on Academic Torrents website <http://academictorrents.com>.
 
 All parts of the project like data cleaning, visualizations, and calculations used by analysis were made in R, using RStudio.
 
-## Files
+## Project Files
 
+* Dataset [im_world-championships_2015.csv](im_world-championships_2015.csv)
+* R Notebook ironman2015-RNotebook.Rmd
+* R Script ironman2015.R
+* Markdown project file containing all analysis, graphs and observations[ironman2015-RNotebook.md](ironman2015-RNotebook.md) 
 
-
-## Project insights
+## Project Insights
 
 All observations and final conclusions included in [ironman2015-RNotebook.md](ironman2015-RNotebook.md)
 
