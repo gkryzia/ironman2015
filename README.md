@@ -1,4 +1,54 @@
-# ironman2015
-IRONMAN WORLD CHAMPIONSHIPS HAWAII 2015 - Data Analysis
+# IRONMAN WORLD CHAMPIONSHIPS HAWAII 2015 - Data Analysis
+## Author: Grzegorz Kryzia
+## Project created as an individual project on the course Exploratory Data Analysis and Visualization at UCLA Extension (11/2020)
 
-# GK1
+
+
+
+# Description
+# Technology
+
+
+
+
+
+
+
+
+
+
+
+# Analysis of dataset obtained on Academic Torrents website <http://academictorrents.com>. 
+# It answers following questions:
+  
+# 1. How age and gender impact overall time and times of individual disciplines?
+# 2. Which age group among each gender are the most competitive?
+# 3. Do older athletes always have the longer time to complete the race?
+# 4. What age groups are most numerous?
+# 5. How does time of one discipline impact an overall time?
+  
+## Original dataset file structure (2309 observations, 20 columns)
+  
+# -   Name
+# -   GenderRank
+# -   DivRank
+# -   OverallRank
+# -   Division
+# -   Bib
+# -   Age
+# -   State
+# -   Country
+# -   Profession
+# -   Points
+# -   Swim time
+# -   SwimDistance
+# -   T1- transition time
+# -   Bike time
+# -   BikeDistance
+# -   T2 -- transition time
+# -   Run time
+# -   RunDistance
+# -   Overall time
+
+
+
