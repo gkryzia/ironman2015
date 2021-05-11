@@ -4,7 +4,16 @@
 
 ## Description
 
+In my project, based on the results of Ironman World Championships Hawaii 2015. Rather than answer one particular question I was trying to answer a few questions related to ironman competition. My questions were:    
 
+* How age and gender impact overall time and times of individual disciplines?
+* Which age group among each gender are the most competitive?
+* Do older athletes always have the longer time to complete the race?
+* What age groups are most numerous?
+* How does time of one discipline impact an overall time?
+
+The dataset description as well as all the calculations, visualisations, insights and observations are included in 
+[ironman2015-RNotebook.md](ironman2015-RNotebook.md)
 
 ## Data source
 
@@ -17,46 +26,9 @@ All parts of the project like data cleaning, visualizations, and calculations us
 ## Files
 
 
+
 ## Project insights
 
 All observations and final conclusions included in [ironman2015-RNotebook.md](ironman2015-RNotebook.md)
-
-
-
-
-
-
-# Analysis of dataset obtained on Academic Torrents website <http://academictorrents.com>. 
-# It answers following questions:
-  
-# 1. How age and gender impact overall time and times of individual disciplines?
-# 2. Which age group among each gender are the most competitive?
-# 3. Do older athletes always have the longer time to complete the race?
-# 4. What age groups are most numerous?
-# 5. How does time of one discipline impact an overall time?
-  
-## Original dataset file structure (2309 observations, 20 columns)
-  
-# -   Name
-# -   GenderRank
-# -   DivRank
-# -   OverallRank
-# -   Division
-# -   Bib
-# -   Age
-# -   State
-# -   Country
-# -   Profession
-# -   Points
-# -   Swim time
-# -   SwimDistance
-# -   T1- transition time
-# -   Bike time
-# -   BikeDistance
-# -   T2 -- transition time
-# -   Run time
-# -   RunDistance
-# -   Overall time
-
 
 
