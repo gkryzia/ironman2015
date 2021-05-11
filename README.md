@@ -4,19 +4,22 @@
 
 ## Description
 
+
+
 ## Data source
 
 Dataset obtained on Academic Torrents website <http://academictorrents.com>. 
 
 ## Technology
 
-The whole project was made in R, using RStudio.
+All parts of the project like data cleaning, visualizations, and calculations used by analysis were made in R, using RStudio.
 
 ## Files
 
 
+## Project insights
 
-
+All observations and final conclusions included in <README.md>
 
 
 
