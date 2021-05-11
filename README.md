@@ -19,8 +19,7 @@ All parts of the project like data cleaning, visualizations, and calculations us
 
 ## Project insights
 
-All observations and final conclusions included in <README.md>
-
+All observations and final conclusions included in [README.md](README.md)
 
 
 
