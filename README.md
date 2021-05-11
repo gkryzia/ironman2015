@@ -19,7 +19,7 @@ All parts of the project like data cleaning, visualizations, and calculations us
 
 ## Project insights
 
-All observations and final conclusions included in [README.md](README.md)
+All observations and final conclusions included in [ironman2015-RNotebook.md](ironman2015-RNotebook.md)
 
 
 
