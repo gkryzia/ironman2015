@@ -1,6 +1,6 @@
 # IRONMAN WORLD CHAMPIONSHIPS HAWAII 2015 - Data Analysis
-## Author: Grzegorz Kryzia
-## Project created as an individual project on the course Exploratory Data Analysis and Visualization at UCLA Extension (11/2020)
+#### Author: Grzegorz Kryzia
+#### Project created as an individual project on the course Exploratory Data Analysis and Visualization at UCLA Extension (11/2020)
 
 
 
