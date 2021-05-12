@@ -7,9 +7,9 @@ Analysis and Visualization at UCLA Extension (11/2020)
 
 ## Analysis of dataset obtained on Academic Torrents website <http://academictorrents.com>. It answers following questions:
 
-1.  How age and gender impact overall time and times of individual
+1.  How do age and gender impact overall time and times of individual
     disciplines?
-2.  Which age group among each gender are the most competitive?
+2.  Which age groups among each gender are the most competitive?
 3.  Do older athletes always have the longer time to complete the race?
 4.  What age groups are most numerous?
 5.  How does time of one discipline impact an overall time?
