@@ -6,13 +6,13 @@ Individual project made as a part of the course Exploratory Data Analysis and Vi
 
 In my project, based on the results of Ironman World Championships Hawaii 2015. Rather than answer one particular question I was trying to answer a few questions related to ironman competition. My questions were:    
 
-* How age and gender impact overall time and times of individual disciplines?
-* Which age group among each gender are the most competitive?
+* How do age and gender impact overall time and times of individual disciplines?
+* Which age groups among each gender are the most competitive?
 * Do older athletes always have the longer time to complete the race?
 * What age groups are most numerous?
 * How does time of one discipline impact an overall time?
 
-The dataset description as well as all the calculations, visualisations, insights and observations are included in 
+The dataset description as well as all the calculations, visualizations, insights and observations are included in 
 [ironman2015-RNotebook.md](ironman2015-RNotebook.md)
 
 ## Data source
